@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my Website!
 
-You can use the [editor on GitHub](https://github.com/Zerpnord/Zerpnord.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a 14 year old highschool student. I code solely to have fun.
+I mostly do game development & like to **make my own libraries & frameworks** in **Python & Lua**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Socials:
+[![GitHub](https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-48.png)](https://github.com/Zerpnord)
+[![Reddit](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-48.png)](https://reddit.com/r/Zerpnord)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Feel free to check some of my projects:
+[![Speed Pong](https://github-readme-stats.vercel.app/api/pin/?username=Zerpnord&repo=SpeedPong)](https://github.com/Zerpnord/SpeedPong)
+[![Asteroids](https://github-readme-stats.vercel.app/api/pin/?username=Zerpnord&repo=AsteroidsLove2D)](https://github.com/Zerpnord/AsteroidsLove2D)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zerpnord/Zerpnord.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### In development:
+[![FlappyCube](https://github-readme-stats.vercel.app/api/pin/?username=Zerpnord&repo=FlappyCube)](https://github.com/Zerpnord/FlappyCube)
