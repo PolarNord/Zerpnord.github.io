@@ -5,7 +5,7 @@ I mostly do game development & like to **make my own libraries & frameworks** in
 
 ### Socials:
 [![GitHub](https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-48.png)](https://github.com/Zerpnord)
-[![Reddit](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-48.png)](https://reddit.com/r/Zerpnord)
+[![Reddit](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-48.png)](https://reddit.com/u/Zerpnord)
 
 
 
