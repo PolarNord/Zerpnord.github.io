@@ -14,9 +14,6 @@ I mostly do game development & like to **make my own libraries & frameworks** in
 [![Asteroids](https://github-readme-stats.vercel.app/api/pin/?username=Zerpnord&repo=AsteroidsLove2D)](https://github.com/Zerpnord/AsteroidsLove2D)
 
 
-### In development:
-[![FlappyCube](https://github-readme-stats.vercel.app/api/pin/?username=Zerpnord&repo=FlappyCube)](https://github.com/Zerpnord/FlappyCube)
-
 
 ### Discontinued projects:
 [![FlappyCube](https://github-readme-stats.vercel.app/api/pin/?username=Zerpnord&repo=GodotRoguelike)](https://github.com/Zerpnord/GodotRoguelike)
