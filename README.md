@@ -10,6 +10,7 @@ I mostly do game development & like to **make my own libraries & frameworks** in
 
 
 ### Recent projects:
+[![nsaneShooter](https://github-readme-stats.vercel.app/api/pin/?username=Zerpnord&repo=InsaneShooter)](https://github.com/Zerpnord/InsaneShooter)
 [![Speed Pong](https://github-readme-stats.vercel.app/api/pin/?username=Zerpnord&repo=SpeedPong)](https://github.com/Zerpnord/SpeedPong)
 [![Asteroids](https://github-readme-stats.vercel.app/api/pin/?username=Zerpnord&repo=AsteroidsLove2D)](https://github.com/Zerpnord/AsteroidsLove2D)
 
